@@ -8,9 +8,9 @@ let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
 
 ❍ *Creador:*
 
-ᰔᩚ ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜
+  ♦️NͥͥeͣoͫВⷡoͦᴛⷮ♦
 > 🜸 Rol » *Creador*
-> ✧ GitHub » https://github.com/The-King-Destroy
+> ✧ wa.me/5491158051406
 
 ❒ *Colaboradores:*
 
