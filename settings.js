@@ -52,8 +52,8 @@ global.yukiJadibts = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = '⪛✰ ALYA-𝐁𝐨𝐭 ✰⪜'
-global.botname = 'alya-sᥙ᥆ᥙ-ᑲ᥆𝗍'
-global.wm = 'ৎ୭࠭͢alya_𝐒𝐮𝐨𝐮-𝐁𝐨𝐭ⷭ𓆪͟͞ '
+global.botname = 'NeoBOT'
+global.wm = 'NeoBOT'
 global.author = 'Made By Seishiro Nagi 𒆜'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Seishiro Nagi 𒆜'
 global.textbot = 'alya-Sυσυ-Bσƚ • Powered By Seishiro Nagi'
