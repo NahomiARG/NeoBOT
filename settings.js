@@ -44,20 +44,20 @@ global.languaje = 'Español'
 global.vs = '2.2.0'
 global.vsJB = '5.0'
 global.nameqr = 'ALYA-MC'
-global.namebot = '✿◟ALYA-Bσƚ◞✿'
+global.namebot = '✿◟Neo-Bσƚ◞✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ ALYA-𝐁𝐨𝐭 ✰⪜'
+global.packname = '⪛✰ Neo-𝐁𝐨𝐭 ✰⪜'
 global.botname = 'NeoBOT'
 global.wm = 'NeoBOT'
-global.author = 'Made By Seishiro Nagi 𒆜'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ Seishiro Nagi 𒆜'
-global.textbot = 'alya-Sυσυ-Bσƚ • Powered By Seishiro Nagi'
-global.etiqueta = 'seishiro nagi'
+global.author = 'Made By NeoARG 𒆜'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ NeoARG 𒆜'
+global.textbot = 'NeoBOT • Powered By NeoARG'
+global.etiqueta = 'NeoARG'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
